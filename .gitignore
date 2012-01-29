@@ -5,4 +5,3 @@ vendor
 dump.rdb
 Gemfile.lock
 .rvmrc
-public/vendor/highcharts.js
